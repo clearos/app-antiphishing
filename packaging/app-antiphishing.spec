@@ -1,7 +1,7 @@
 
 Name: app-antiphishing
 Epoch: 1
-Version: 1.0.10
+Version: 1.1.0
 Release: 1%{dist}
 Summary: Gateway Antiphishing
 License: GPLv3
@@ -16,7 +16,7 @@ Requires: app-antivirus
 Gateway Antiphishing uses a central antiphishing engine to scan web, FTP, mail and more. It protects devices connected to your network by shielding users from malicious links detected by the engine.
 
 %package core
-Summary: Gateway Antiphishing - APIs and install
+Summary: Gateway Antiphishing - Core
 License: LGPLv3
 Group: ClearOS/Libraries
 Requires: app-base-core
