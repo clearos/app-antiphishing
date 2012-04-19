@@ -13,7 +13,7 @@ Requires: app-base
 Requires: app-antivirus
 
 %description
-Gateway Antiphishing uses a central antiphishing engine to scan web, FTP, mail and more. It protects devices connected to your network by shielding users from malicious links detected by the engine.
+The Gateway Antiphishing app uses a central antiphishing engine to scan web, FTP, mail and more. It protects devices connected to your network by shielding users from malicious links detected by the engine.
 
 %package core
 Summary: Gateway Antiphishing - Core
@@ -23,7 +23,7 @@ Requires: app-base-core
 Requires: app-antivirus-core
 
 %description core
-Gateway Antiphishing uses a central antiphishing engine to scan web, FTP, mail and more. It protects devices connected to your network by shielding users from malicious links detected by the engine.
+The Gateway Antiphishing app uses a central antiphishing engine to scan web, FTP, mail and more. It protects devices connected to your network by shielding users from malicious links detected by the engine.
 
 This package provides the core API and libraries.
 
