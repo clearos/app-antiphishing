@@ -38,3 +38,7 @@ $app['requires'] = array(
 $app['core_requires'] = array(
     'app-antivirus-core',
 );
+
+$app['delete_dependency'] = array(
+    'app-antiphishing-core'
+);
