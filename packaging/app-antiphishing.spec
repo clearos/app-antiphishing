@@ -1,7 +1,7 @@
 
 Name: app-antiphishing
 Epoch: 1
-Version: 1.1.0
+Version: 1.6.0
 Release: 1%{dist}
 Summary: Gateway Antiphishing
 License: GPLv3
@@ -72,8 +72,6 @@ exit 0
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/antiphishing/packaging
-%exclude /usr/clearos/apps/antiphishing/tests
 %dir /usr/clearos/apps/antiphishing
 /usr/clearos/apps/antiphishing/deploy
 /usr/clearos/apps/antiphishing/language
-/usr/clearos/apps/antiphishing/libraries
