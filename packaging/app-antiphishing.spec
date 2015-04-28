@@ -1,7 +1,7 @@
 
 Name: app-antiphishing
 Epoch: 1
-Version: 2.0.18
+Version: 2.0.24
 Release: 1%{dist}
 Summary: Gateway Antiphishing
 License: GPLv3
