@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'Додаток Шлюз фішингу використовує центральний антиспам двигун для сканування Web, FTP, пошту і багато іншого. Він захищає пристрої, підключені до мережі, захищаючи користувачів від виявлених шкідливих посилань двигуна.';
-$lang['antiphishing_app_name'] = 'Шлюз антифішингових';
-$lang['antiphishing_app_tooltip'] = 'Навіть найдосвідченіші користувачі Інтернету можуть випадково натиснути на посилання фішинг. Ми рекомендуємо залишити всі функції AntiPhishing включені.';
-$lang['antiphishing_block_cloaked'] = 'Блок посилань Приховані';
-$lang['antiphishing_block_ssl_mismatch'] = 'Блок SSL Розбіжність';
-$lang['antiphishing_heuristics_engine'] = 'евристичний Движок';
-$lang['antiphishing_signature_engine'] = 'підпис двигуна';
+$lang['antiphishing_app_description'] = 'Програма Gateway Antiphishing використовує центральний двигун антифішингу для сканування веб-інтерфейсу, FTP, пошти та багато іншого. Він захищає пристрої, підключені до вашої мережі, захищаючи користувачів від шкідливих посилань, виявлених двигуном.';
+$lang['antiphishing_app_name'] = 'Шлюз антифішинг';
+$lang['antiphishing_app_tooltip'] = 'Навіть найбільш підковані користувачі Інтернету можуть випадково натиснути фішинг-посилання. Ми рекомендуємо залишити всі функції антифішингу включено.';
+$lang['antiphishing_block_cloaked'] = 'Заблоковані URL-адреси';
+$lang['antiphishing_block_ssl_mismatch'] = 'Блокувати невідповідність SSL';
+$lang['antiphishing_heuristics_engine'] = 'Евристичний двигун';
+$lang['antiphishing_signature_engine'] = 'Підпис двигуна';
