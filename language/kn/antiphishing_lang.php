@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'ಗೇಟ್ವೇ Antiphishing ಅಪ್ಲಿಕೇಶನ್ ವೆಬ್, FTP ಯ, ಮೇಲ್ ಮತ್ತು ಹೆಚ್ಚು ಸ್ಕ್ಯಾನ್ ಕೇಂದ್ರ antiphishing ಎಂಜಿನ್ ಅನ್ನು ಬಳಸುತ್ತದೆ. ಇದು ಎಂಜಿನ್ ಪತ್ತೆ ದುರುದ್ದೇಶಿತ ಕೊಂಡಿಗಳು ಬಳಕೆದಾರರನ್ನು ರಕ್ಷಿಸುವ ಮೂಲಕ ನಿಮ್ಮ ಜಾಲಕ್ಕೆ ಸಂಪರ್ಕ ಸಾಧನಗಳು ರಕ್ಷಿಸುತ್ತದೆ.';
-$lang['antiphishing_app_name'] = 'ಗೇಟ್ವೇ Antiphishing';
-$lang['antiphishing_app_tooltip'] = 'ಅತ್ಯಂತ ಜಾಣತನ ಇಂಟರ್ನೆಟ್ ಬಳಕೆದಾರರು ಆಕಸ್ಮಿಕವಾಗಿ ಒಂದು ಫಿಶಿಂಗ್ ಲಿಂಕ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ. ನಾವು ಕುಕೀ ಎಲ್ಲಾ antiphishing ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಬಿಟ್ಟು ಶಿಫಾರಸು.';
-$lang['antiphishing_block_cloaked'] = 'ಬ್ಲಾಕ್ ಮರೆಮಾಡಿದ URL ಗಳು';
-$lang['antiphishing_block_ssl_mismatch'] = 'ಬ್ಲಾಕ್ ಎಸ್ಎಸ್ಎಲ್ ಹೊಂದಾಣಿಕೆಯಾಗದಿರುವಿಕೆ';
-$lang['antiphishing_heuristics_engine'] = 'ಅನ್ವೇಷಣ ಎಂಜಿನ್';
+$lang['antiphishing_app_description'] = 'ಗೇಟ್ವೇ ಆಂಟಿಫಿಶಿಂಗ್ ಅಪ್ಲಿಕೇಶನ್ ವೆಬ್, FTP, ಮೇಲ್ ಮತ್ತು ಹೆಚ್ಚಿನವುಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಕೇಂದ್ರ ಆಂಟಿಫಿಶಿಂಗ್ ಎಂಜಿನ್ ಅನ್ನು ಬಳಸುತ್ತದೆ. ಇದು ಎಂಜಿನ್ ಪತ್ತೆಹಚ್ಚಲಾದ ದೋಷಪೂರಿತ ಲಿಂಕ್ಗಳಿಂದ ಬಳಕೆದಾರರನ್ನು ರಕ್ಷಿಸುವ ಮೂಲಕ ನಿಮ್ಮ ನೆಟ್ವರ್ಕ್ಗೆ ಸಂಪರ್ಕಗೊಂಡಿರುವ ಸಾಧನಗಳನ್ನು ರಕ್ಷಿಸುತ್ತದೆ.';
+$lang['antiphishing_app_name'] = 'ಗೇಟ್ವೇ ಆಂಟಿಫಿಶಿಂಗ್';
+$lang['antiphishing_app_tooltip'] = 'ಅತ್ಯಂತ ಬುದ್ಧಿವಂತ ಇಂಟರ್ನೆಟ್ ಬಳಕೆದಾರರು ಸಹ ಆಕಸ್ಮಿಕವಾಗಿ ಫಿಶಿಂಗ್ ಲಿಂಕ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಬಹುದು. ಸಕ್ರಿಯಗೊಳಿಸಿದ ಎಲ್ಲ ಆಂಟಿಫಿಶಿಂಗ್ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ.';
+$lang['antiphishing_block_cloaked'] = 'ಮುಚ್ಚಿದ URL ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ';
+$lang['antiphishing_block_ssl_mismatch'] = 'ಎಸ್ಎಸ್ಎಲ್ ಅಸಮರ್ಥವನ್ನು ನಿರ್ಬಂಧಿಸಿ';
+$lang['antiphishing_heuristics_engine'] = 'ಹ್ಯುರಿಸ್ಟಿಕ್ ಎಂಜಿನ್';
 $lang['antiphishing_signature_engine'] = 'ಸಹಿ ಎಂಜಿನ್';
