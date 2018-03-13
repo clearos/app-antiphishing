@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'កម្មវិធីប្រើម៉ាស៊ីន Antiphishing ច្រកផ្លូវកណ្តាលដើម្បី antiphishing ស្កេនបណ្ដាញ, FTP របស់សំបុត្រនិងច្រើនទៀត។ វាការពារឧបករណ៍ភ្ជាប់បណ្តាញរបស់អ្នកដោយការការពារអ្នកប្រើប្រាស់ពីតំណភ្ជាប់ដែលមានគំនិតអាក្រក់បានរកឃើញដោយម៉ាស៊ីន។';
-$lang['antiphishing_app_name'] = 'ផ្លូវចេញចូល Antiphishing';
-$lang['antiphishing_app_tooltip'] = 'ទោះបីជាអ្នកប្រើប្រាស់អ៊ីនធើណែបទពិសោធច្រើនបំផុតចៃដន្យអាចចុចលើតំណបន្លំ។ យើងសូមណែនាំឱ្យចាកចេញពីលក្ខណៈពិសេសទាំងអស់បានបើក antiphishing ។';
-$lang['antiphishing_block_cloaked'] = 'ប្លុក cloaked URLs ដែលបាន';
-$lang['antiphishing_block_ssl_mismatch'] = 'ប្លុក SSL ដែលមិនផ្គូផ្គង';
-$lang['antiphishing_heuristics_engine'] = 'ម៉ាស៊ីន heuristic';
-$lang['antiphishing_signature_engine'] = 'ម៉ាស៊ីនហត្ថលេខា';
+$lang['antiphishing_app_description'] = 'កម្មវិធី Gateway Antiphishing ប្រើម៉ាស៊ីនកណ្តាលដើម្បីស្កេនបណ្តាញ FTP, អ៊ីម៉ែលនិងច្រើនទៀត។ វាការពារឧបករណ៍ដែលភ្ជាប់ទៅបណ្តាញរបស់អ្នកដោយការពារអ្នកប្រើពីតំណដែលមានគ្រោះថ្នាក់ដែលបានរកឃើញដោយម៉ាស៊ីន។';
+$lang['antiphishing_app_name'] = 'Gateway Antiphishing';
+$lang['antiphishing_app_tooltip'] = 'សូម្បីតែអ្នកប្រើអ៊ិនធឺណិតដែលមានភាពស្ទាត់ជំនាញបំផុតអាចចុចលើតំណភ្ជាប់ដោយចៃដន្យ។ យើងសូមណែនាំឱ្យចាកចេញពីលក្ខណៈពិសេសនៃការក្លែងបន្លំទាំងអស់។';
+$lang['antiphishing_block_cloaked'] = 'រាំងខ្ទប់ URLs';
+$lang['antiphishing_block_ssl_mismatch'] = 'ទប់ស្កាត់មិនផ្គូផ្គង SSL';
+$lang['antiphishing_heuristics_engine'] = 'ម៉ាស៊ីនហាប់ណឺរ';
+$lang['antiphishing_signature_engine'] = 'ម៉ាស៊ីនចុះហត្ថលេខា';
