@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'गेटवे Antiphishing अनुप्रयोग वेब, एफटीपी, मेल र थप स्क्यान गर्न एक केन्द्रीय antiphishing इन्जिन प्रयोग गर्दछ। यो इन्जिन द्वारा पत्ता खराब लिंकबाट प्रयोगकर्ता परिरक्षण आफ्नो नेटवर्कमा जडान उपकरणहरू सुरक्षा।';
-$lang['antiphishing_app_name'] = 'गेटवे Antiphishing';
-$lang['antiphishing_app_tooltip'] = 'पनि सबैभन्दा व्यावहारिक ज्ञानयुक्त इन्टरनेट प्रयोगकर्ता गल्ति फिसिङ लिंक मा क्लिक गर्न सक्नुहुन्छ। हामी सक्षम सबै antiphishing सुविधाहरू छोडेर सल्लाह दिन्छौँ।';
-$lang['antiphishing_block_cloaked'] = 'ब्लक Cloaked URL हरू';
-$lang['antiphishing_block_ssl_mismatch'] = 'ब्लक SSL बेमेल';
-$lang['antiphishing_heuristics_engine'] = 'अनुमानी इन्जिन';
+$lang['antiphishing_app_description'] = 'गेटवे एन्टिफिशिश अनुप्रयोगले वेब, एफटीपी, मेल र थप स्क्यान गर्न केन्द्रीय एन्टिफिशिङ इन्जिन प्रयोग गर्दछ। यसले इन्टरनेट द्वारा पत्ता लगाइएको दुर्भावनापूर्ण लिङ्कहरूबाट प्रयोगकर्ताहरूलाई ढाँचा बनाएर तपाईंको सञ्जालसँग जोडिएको यन्त्रहरूलाई सुरक्षा गर्दछ।';
+$lang['antiphishing_app_name'] = 'गेटवे एन्टिफिशिङ';
+$lang['antiphishing_app_tooltip'] = 'यहां सम्म कि सबै भन्दा ज्यादा इंटरनेट प्रयोगकर्ताहरु लाई गलती देखि फिसिङ लिंक मा क्लिक गर्न सक्छन्। हामी सबै एन्टिफिशिङ सुविधाहरू सक्षम गर्न सुझाव दिन्छौं।';
+$lang['antiphishing_block_cloaked'] = 'क्लोकेड URL रोक्नुहोस्';
+$lang['antiphishing_block_ssl_mismatch'] = 'SSL बेमेल ब्लक गर्नुहोस्';
+$lang['antiphishing_heuristics_engine'] = 'हेराइस्टिक इञ्जिन';
 $lang['antiphishing_signature_engine'] = 'हस्ताक्षर इन्जिन';
