@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'ගේට්වේ Antiphishing යෙදුම වෙබ්, FTP, තැපැල් හා වඩා පරිලෝකනය කිරීමට මධ්යම antiphishing එන්ජිම භාවිතා කරයි. එය එන්ජින් මගින් අනාවරණය අනිෂ්ට සබැඳි වලින් පරිශීලකයන් ආරක්ෂා කරමින් ඔබගේ ජාල සම්බන්ධ උපකරණ ආරක්ෂා කරයි.';
-$lang['antiphishing_app_name'] = 'ගේට්වේ Antiphishing';
-$lang['antiphishing_app_tooltip'] = 'වඩාත් රස විඳින්නන්, අන්තර්ජාල භාවිතා කරන්නන් පවා අහම්බෙන් හැගවීම සම්බන්ධතාවය මත ක්ලික් කරන්න පුළුවන්. අප සියලු antiphishing විශේෂාංග සක්රීය පිටත් නිර්දේශ කරමු.';
-$lang['antiphishing_block_cloaked'] = 'වාරණ ජියා URL ලිපින';
-$lang['antiphishing_block_ssl_mismatch'] = 'වාරණ SSL නොගැලපීම';
-$lang['antiphishing_heuristics_engine'] = 'කලපුවේ කිලෝමීටරයක් ​​එන්ජින්';
-$lang['antiphishing_signature_engine'] = 'අත්සන එන්ජින්';
+$lang['antiphishing_app_description'] = 'ගේට්වේ Antiphishing යෙදුම වෙබ්, ෆැක්ස්, තැපැල් සහ තවත් බොහෝ දේ ස්කෑන් කිරීම සඳහා මධ්යම ප්රතිප්රයිඥ එන්ජිම භාවිතා කරයි. එන්ජිම මගින් හඳුනාගත් අනිෂ්ට සම්බන්ධතා වලින් පරිශීලකයින් ආරක්ෂා කර ඔබේ ජාලයට සම්බන්ධිත උපාංග ආරක්ෂා කරයි.';
+$lang['antiphishing_app_name'] = 'ගේට්වේ මැක්රෝස්ටිං';
+$lang['antiphishing_app_tooltip'] = 'වඩාත්ම ජනප්රිය අන්තර්ජාල භාවිතා කරන්නන් පවා අක්රමණශීලී සම්බන්ධතාවයක් මත ක්ලික් කළ හැකිය. අපි සියලු ප්රතිප්රීකරණ විශේෂාංගයන් ඉවත් කරමු.';
+$lang['antiphishing_block_cloaked'] = 'අවහිර කරන ලද URL ලිපින';
+$lang['antiphishing_block_ssl_mismatch'] = 'SSL නොගැලපේ';
+$lang['antiphishing_heuristics_engine'] = 'උවුදිංග එන්ජින්';
+$lang['antiphishing_signature_engine'] = 'අත්සන එන්ජිම';
