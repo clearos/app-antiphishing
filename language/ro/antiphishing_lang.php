@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'Aplicația Gateway antiphishing utilizează un motor central antiphishing pentru a scana web, FTP, e-mail și multe altele. Acesta protejează dispozitivele conectate la rețea prin ecranare utilizatorii de link-uri rău intenționate detectate de motor.';
-$lang['antiphishing_app_name'] = 'gateway antiphishing';
-$lang['antiphishing_app_tooltip'] = 'Chiar și utilizatorii de Internet cele mai Savvy poate accidental clic pe un link de phishing. Vă recomandăm să păstrați toate caracteristicile antiphishing activate.';
-$lang['antiphishing_block_cloaked'] = 'Bloc disimulată URL-uri';
-$lang['antiphishing_block_ssl_mismatch'] = 'Bloc SSL Nepotrivirea';
-$lang['antiphishing_heuristics_engine'] = 'Motor euristică';
-$lang['antiphishing_signature_engine'] = 'Motor semnătură';
+$lang['antiphishing_app_description'] = 'Aplicația Gateway Antiphishing utilizează un motor central antiphishing pentru a scana web, FTP, poștă și multe altele. Protejează dispozitivele conectate la rețeaua dvs. prin protejarea utilizatorilor de legăturile rău intenționate detectate de motor.';
+$lang['antiphishing_app_name'] = 'Gateway Antiphishing';
+$lang['antiphishing_app_tooltip'] = 'Chiar și cei mai savurați utilizatori de Internet pot face clic accidental pe un link de phishing. Vă recomandăm să lăsați toate funcțiile antiphishing activate.';
+$lang['antiphishing_block_cloaked'] = 'Blocați adresele URL acoperite';
+$lang['antiphishing_block_ssl_mismatch'] = 'Blocați asocierea SSL';
+$lang['antiphishing_heuristics_engine'] = 'Euristic Engine';
+$lang['antiphishing_signature_engine'] = 'Motor de semnalizare';
