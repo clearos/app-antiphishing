@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'गेटवे Antiphishing अॅप वेब, FTP, मेल आणि अधिक स्कॅन एक मध्यवर्ती antiphishing इंजिन वापरते. हे इंजिन आढळले दुर्भावनायुक्त दुवे वापरकर्त्यांना संरक्षण करून आपल्या नेटवर्क कनेक्ट केलेले साधने संरक्षण होते.';
-$lang['antiphishing_app_name'] = 'गेटवे Antiphishing';
-$lang['antiphishing_app_tooltip'] = 'अगदी सर्वात जाणकार इंटरनेट वापरकर्त्यांसाठी चुकून फिशिंग लिंक वर क्लिक करा शकता. आम्ही सक्षम सर्व antiphishing वैशिष्ट्ये सोडून शिफारस करतो.';
-$lang['antiphishing_block_cloaked'] = 'ब्लॉक फसवे केलेल्या URL';
-$lang['antiphishing_block_ssl_mismatch'] = 'ब्लॉक SSL जुळत नाही';
-$lang['antiphishing_heuristics_engine'] = 'नवगामी इंजिन';
+$lang['antiphishing_app_description'] = 'वेब, FTP, मेल आणि बरेच काही स्कॅन करण्यासाठी गेटवे एन्टिफिशिंग अॅप मध्यवर्ती अँटीपिशिंग इंजिनचा वापर करतो. हे वापरकर्त्यांना इंजिनद्वारे सापडलेल्या दुर्भावनापूर्ण दुव्यांपासून संरक्षित करून आपल्या नेटवर्कशी कनेक्ट केलेले डिव्हायसेसचे संरक्षण करते.';
+$lang['antiphishing_app_name'] = 'गेटवे अँन्टिफिशिंग';
+$lang['antiphishing_app_tooltip'] = 'जरी सर्वात जाणकार इंटरनेट वापरकर्ते चुकीने फिशिंग दुव्यावर क्लिक करू शकतात आम्ही सक्षम केलेली सर्व अँटीफिशिंग वैशिष्ट्ये सोडण्याची शिफारस करतो.';
+$lang['antiphishing_block_cloaked'] = 'ब्लॉक केलेल्या लबाडी केलेल्या URL';
+$lang['antiphishing_block_ssl_mismatch'] = 'एसएसएल जुळत नाही अवरोधित करा';
+$lang['antiphishing_heuristics_engine'] = 'ह्युरिस्टिक इंजिन';
 $lang['antiphishing_signature_engine'] = 'स्वाक्षरी इंजिन';
