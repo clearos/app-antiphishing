@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'L&#39;applicazione Gateway Antiphishing utilizza un motore antiphishing centrale per eseguire la scansione di rete, FTP, e-mail e altro ancora. Protegge i dispositivi connessi alla rete proteggendo gli utenti da link malevoli rilevati dal motore.';
+$lang['antiphishing_app_description'] = 'L&#39;app Gateway Antiphishing utilizza un motore antiphishing centrale per la scansione di Web, FTP, e-mail e altro ancora. Protegge i dispositivi collegati alla rete proteggendo gli utenti da collegamenti malevoli rilevati dal motore.';
 $lang['antiphishing_app_name'] = 'Gateway Antiphishing';
-$lang['antiphishing_app_tooltip'] = 'Anche gli utenti di Internet più esperti possono cliccare accidentalmente su un link di phishing. Si consiglia di lasciare tutte le funzioni antiphishing abilitate.';
-$lang['antiphishing_block_cloaked'] = 'Blocca URL Cloaked';
-$lang['antiphishing_block_ssl_mismatch'] = 'Blocco SSL non corrispondente';
-$lang['antiphishing_heuristics_engine'] = 'motore euristico';
-$lang['antiphishing_signature_engine'] = 'firma del motore';
+$lang['antiphishing_app_tooltip'] = 'Anche gli utenti Internet più esperti possono accidentalmente cliccare su un link di phishing. Ti consigliamo di lasciare attive tutte le funzioni antiphishing.';
+$lang['antiphishing_block_cloaked'] = 'Blocca gli URL mascherati';
+$lang['antiphishing_block_ssl_mismatch'] = 'Block SSL Mismatch';
+$lang['antiphishing_heuristics_engine'] = 'Motore euristico';
+$lang['antiphishing_signature_engine'] = 'Signature Engine';
