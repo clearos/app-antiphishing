@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'Шлюз антифишингтік Қолданба Вебті, FTP, поштаны және одан сканерлеу үшін орталық антифишингтік қозғалтқыш пайдаланады. Ол қозғалтқышы анықтаған зиянды сілтемелер пайдаланушыларды қорғау арқылы желіге қосылған құрылғыларды қорғайды.';
-$lang['antiphishing_app_name'] = 'Шлюз антифишингтік';
-$lang['antiphishing_app_tooltip'] = 'Тіпті ең зеректігімен интернет пайдаланушылар кездейсоқ фишинг сілтемені басыңыз болады. Біз қосылған барлық антифишингтік мүмкіндіктерді қалдыру ұсынылады.';
-$lang['antiphishing_block_cloaked'] = 'Блок жадағай URL мекенжайлары';
-$lang['antiphishing_block_ssl_mismatch'] = 'Блок SSL сәйкес келмеуі';
-$lang['antiphishing_heuristics_engine'] = 'эвристикалық Қозғалтқыш';
-$lang['antiphishing_signature_engine'] = 'қолтаңба Қозғалтқыш';
+$lang['antiphishing_app_description'] = 'Gateway Antiphishing қолданбасы веб, FTP, поштаны және тағы басқаларды қарап шығу үшін орталық антифишингтік қозғалтқышты пайдаланады. Ол қозғалтқыш арқылы анықталған зиянды сілтемелерден пайдаланушыларды қорғау арқылы желіге қосылған құрылғыларды қорғайды.';
+$lang['antiphishing_app_name'] = 'Gateway Antiphishing';
+$lang['antiphishing_app_tooltip'] = 'Тіпті ең сауатты Интернет пайдаланушылары кездейсоқ фишинг сілтемесін баса алады. Барлық антифишингтік мүмкіндіктерді қосулы қалдыруды ұсынамыз.';
+$lang['antiphishing_block_cloaked'] = 'Cloaked URL мекенжайларын бұғаттау';
+$lang['antiphishing_block_ssl_mismatch'] = 'SSL сәйкес келмеуі';
+$lang['antiphishing_heuristics_engine'] = 'Эвристикалық қозғалтқыш';
+$lang['antiphishing_signature_engine'] = 'Қолтаңба қозғалтқышы';
