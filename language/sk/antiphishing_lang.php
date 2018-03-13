@@ -1,9 +1,9 @@
 <?php
 
-$lang['antiphishing_app_description'] = 'Brána Antiphishing aplikácia používa centrálna phishingom engine pre skenovanie web, FTP, pošty a ďalšie. Chráni zariadenia pripojené k sieti tým, že chráni užívateľa pred škodlivými odkazy zistených motora.';
-$lang['antiphishing_app_name'] = 'brána Antiphishing';
-$lang['antiphishing_app_tooltip'] = 'Dokonca aj tie zdatní používatelia internetu môžu náhodne kliknúť na odkaz phishing. Odporúčame ponechať všetky funkcie Antiphishing povolená.';
-$lang['antiphishing_block_cloaked'] = 'Blokové Maskovaná URL';
-$lang['antiphishing_block_ssl_mismatch'] = 'Blok SSL Nezhoda';
-$lang['antiphishing_heuristics_engine'] = 'heuristická Engine';
-$lang['antiphishing_signature_engine'] = 'podpis Engine';
+$lang['antiphishing_app_description'] = 'Aplikácia Gatephile Antiphishing používa centrálny nástroj na odstraňovanie škôd, ktorý skenuje web, FTP, poštu a ďalšie. Chráni zariadenia pripojené k vašej sieti tým, že chráni používateľov pred škodlivými odkazmi, ktoré deteguje motor.';
+$lang['antiphishing_app_name'] = 'Gatephishing Antiphishing';
+$lang['antiphishing_app_tooltip'] = 'Dokonca aj najchytnejší používatelia internetu môžu nechtiac kliknúť na odkaz phishing. Odporúčame vám ponechať všetky povolené funkcie antiphishingu.';
+$lang['antiphishing_block_cloaked'] = 'Blokovať adresy URL s prekódovaním';
+$lang['antiphishing_block_ssl_mismatch'] = 'Zablokovanie SSL nesúladu';
+$lang['antiphishing_heuristics_engine'] = 'Heuristický motor';
+$lang['antiphishing_signature_engine'] = 'Podpisový motor';
